@@ -1,0 +1,2 @@
+# jongkodingsultan
+Latihan di Jongkoding
