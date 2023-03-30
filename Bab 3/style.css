@@ -1,0 +1,73 @@
+.body {
+    background-color: #ecf0f1;
+}
+.wrapper {
+    background: grey;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+    padding: 0px 10px;
+    background-color: #bdc3c7;
+}
+.sidebar {
+    width: 400px;
+    height: 600px;
+    float: left;
+}
+.single {
+    width: 800px;
+    height: 600px;
+    float: right;
+}
+.blog-single {
+    float: left;
+    max-width: 380px;
+    margin: 0px 10px 20px;
+}
+
+.blog-single img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+.clear {
+    clear: both;
+}
+#logo {
+    float: left;
+    width: 200px;
+    height: auto;
+    padding: 20px;
+}
+#logo img {
+    max-width: 100px;
+    height: auto;
+}
+#menu {
+    padding: 60px 0px;
+    float: right;
+    width: 960px;
+}
+#menu li {
+    float: left;
+    list-style: none;
+    margin: 0px 10px;
+}
+#menu li a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #34495e;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.recent-article {
+    padding: 0px 10px;
+    float: right;
+}
+.recent-article ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
